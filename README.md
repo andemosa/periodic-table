@@ -44,4 +44,3 @@ https://webperiodictable.web.app/
   --app-popup-background: #fefefe;
 }
 ```
-REF: https://www.ducksters.com/science/chemistry/calcium.php
